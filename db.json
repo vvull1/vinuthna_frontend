@@ -1,0 +1,45 @@
+{"property": [{
+    "id": 1,
+    "Type":"Commerical",
+    "Year": "1998",
+    "Rooms": "3 bed 2 bath",
+    "Price": "1800",
+    "Area": "1200-1500"
+
+},
+{
+    "id": 2,
+    "Type":"Multi-Use",
+    "Year": "1887",
+    "Rooms": "5 rooms",
+    "Price": "4500",
+    "Area": "1800-2400"
+
+},
+{
+    "id": 3,
+    "Type":"Residential",
+    "Year": "1760",
+    "Rooms": "4 bed 2 bath",
+    "Price": "6000",
+    "Area": "2400-3000"
+
+},
+{
+    "id": 4,
+    "Type":"Multi-Use",
+    "Year": "2009",
+    "Rooms": "6 rooms",
+    "Price": "1900",
+    "Area": "1100-1400"
+
+},
+{
+    "id": 5,
+    "Type":"Residential",
+    "Year": "1760",
+    "Rooms": "4 bed 2 bath",
+    "Price": "6000",
+    "Area": "3000"
+}
+]}
